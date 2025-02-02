@@ -6,7 +6,7 @@ var bandwidth_arr = new Array('Unlimited','Unlimited','Unlimited','Unlimited','U
 var ip_arr = new Array('Unlimited', 'Unlimited','Unlimited','Unlimited','Unlimited','Unlimited')
 var price_arr = 	new Array('Rp. 250.000,-','Rp. 300.000,-','Rp. 520.000,-','Rp. 700.000,-','Rp. 1,000.000,-','Rp. 2,000.000,-');
 var link_arr = 		new Array('44','45','46','47','48','49');
-var b_url = 'https://client2.vpsindonesia.web.id/cart.php?a=add&configoption[21]=1&configoption[1]=1&pid=';
+var b_url = 'https://client.vpsindonesia.id/cart.php?a=add&configoption[21]=1&configoption[1]=1&pid=';
 
 // This is what you want the default position to be
 var def_pos = 2;
