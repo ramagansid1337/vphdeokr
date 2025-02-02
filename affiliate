@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Title-->
+    <title>Aktifkan fitur affiliate untuk mendapatkan bonus tambahan | VpsIndonesia</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <!--description-->
+    <meta name="description" content="Kamu juga bisa menjual produk VpsIndonesia dengan bagi hasil sebesar 10% dari setiap transaksi yang dilakukan oleh user yang menggunakan code referal dari kamu. Yuk aktifkan fitur affiliate sekarang juga!">
+    <!--Key Words-->
+    <meta name="keywords" content="syarat dan ketentuan, VpsIndonesia terms, terms and condition VpsIndonesia">
+
+    <meta property="og:image" content="https://static.vpsindonesia.web.id/q/cloudlogo.png" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.VpsIndonesia.web.id/affiliate" />
+    <meta property="og:title" content="Aktifkan fitur affiliate untuk mendapatkan bonus tambahan | VpsIndonesia" />
+    <meta property="og:description" content="Kamu juga bisa menjual produk VpsIndonesia dengan bagi hasil sebesar 10% dari setiap transaksi yang dilakukan oleh user yang menggunakan code referal dari kamu. Yuk aktifkan fitur affiliate sekarang juga!" />
+
+    <!--bootstrap-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!--fontawesome style-->
+    <!--<link rel="stylesheet" href="assets/css/fonts-awesome.min.css">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/all-stylesheets.css" type="text/css"/>
+    <!--style-->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="icon" href="https://static.vpsindonesia.web.id/q/cloudlogo.png">
+    <link rel="stylesheet" href="assets/css/typography.css">
+
+</head>
+<body>
+<div id="default_header" class="animate-bottom main_header"></div>
+<!--Hero Banner Section-->
+<section class="blog_banner bg_edf4ff">
+    <div class="container">
+        <div class="banner_content_box sub_page_banner">
+            <h1>Affiliate</h1>
+            <div class="breadcrumb">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li class="active"><a href="#">Affiliate</a></li>
+                </ul>
+                <!--breadcrumb-->
+            </div>
+            <!--page-title-->
+        </div>
+    </div>
+</section>
+<!--End Slider Section-->
+<!--Typography Start Here -->
+<div class="col-xs-12 padding_bottom_100 padding_top_100 privacy_policy_text bg_eef6fe">
+    <div class="container">
+        <h3 class="color_333 margin_bottom_30">Dapatkan penghasilan tambahan hingga 10% dengan menjadi affiliate kami</h3>
+        <ol class="terms_list">
+            <li> Kamu bisa mendapatkan uang lebih dari jualan produk VpsIndonesia, kami memberikan profit sharing 10% dari total Cloud VPS yang dibayarkan customer.</li>
+            <li> Affiliate ini hanya berlaku untuk produk Cloud VPS dari VpsIndonesia. Produk license dan domain tidak termasuk dalam program affiliate.</li>
+            <li> Bagi Hasil 10% akan dihitung secara otomatis oleh sistem billing kami dan dana tersebut bisa ditarik menjadi saldo deposit dan dapat digunakan untuk pembelian produk-produk dari VpsIndonesia. (tidak bisa di cairkan ke rekening bank)</li>
+            <li> Bagi hasil 10% ini bersifat recurring selama customer tersebut melakukan perpanjangan layanan.</li>
+            <li> VpsIndonesia berhak melakukan penolakan claim bagi hasil jika memang diketahui adanya indikasi kecurangan.</li>
+            <li> Saldo yang telah dicairkan kedalam saldo deposit tidak memiliki expired date.</li>
+            <li> Syaratnya kamu harus memiliki akun aktif pada VpsIndonesia, Aktifkan fitur affiliate dengan cara login kedalam akun <a target="_BLANK" href="https://www.VpsIndonesia.web.id/memberarea/index.php?rp=/login"><b>VpsIndonesia</b></a> dan klik menu <a target="_BLANK" href="https://Client.VpsIndonesia.web.id/affiliates.php"><b>Affiliate</b></a> dan pencet tombol <b>Activate</b>.</li>
+        </ol>
+    </div>
+    <!-- col -->
+</div>
+<!--End Here-->
+<div id="default_footer"></div>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+
+<script>
+    $(function(){
+        $("#default_header").load("include/default_header.html");
+        $("#default_footer").load("include/default_footer.html");
+    });
+    $(window).on('scroll', function (event) {
+        var scrollValue = $(window).scrollTop();
+        if (scrollValue > 80) {
+            $('.navbar').addClass('affix');
+        } else{
+            $('.navbar').removeClass('affix');
+        }
+    });
+</script>
+
+
+
+
+</body>
+</html>

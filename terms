@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Title-->
+    <title>Syarat dan Ketentuan | VpsIndonesia</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <!--description-->
+    <meta name="description" content="Dalam penggunaan layanan Cloud, VpsIndonesia juga memiliki aturan main, semua syarat dan ketentuan harus dipatuhi oleh semua pelanggan.">
+    <!--Key Words-->
+    <meta name="keywords" content="syarat dan ketentuan, VpsIndonesia terms, terms and condition VpsIndonesia">
+
+    <meta property="og:image" content="https://static.vpsindonesia.web.id/q/cloudlogo.png" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.vpsindonesia.web.id/terms" />
+    <meta property="og:title" content="Syarat dan Ketentuan | VpsIndonesia" />
+    <meta property="og:description" content="Mau tau syarat dan ketentuan dari VpsIndonesia ? silahkan dibaca dengan teliti dan benar." />
+
+    <!--bootstrap-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!--fontawesome style-->
+    <!--<link rel="stylesheet" href="assets/css/fonts-awesome.min.css">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/all-stylesheets.css" type="text/css"/>
+    <!--style-->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="icon" href="https://static.vpsindonesia.web.id/q/cloudlogo.png">
+    <link rel="stylesheet" href="assets/css/typography.css">
+
+</head>
+<body>
+<div id="default_header" class="animate-bottom main_header"></div>
+<!--Hero Banner Section-->
+<section class="blog_banner bg_edf4ff">
+    <div class="container">
+        <div class="banner_content_box sub_page_banner">
+            <h1>Syarat dan Ketentuan</h1>
+            <div class="breadcrumb">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li class="active"><a href="#">Terms</a></li>
+                </ul>
+                <!--breadcrumb-->
+            </div>
+            <!--page-title-->
+        </div>
+    </div>
+</section>
+<!--End Slider Section-->
+<!--Typography Start Here -->
+<div class="col-xs-12 padding_bottom_100 padding_top_100 privacy_policy_text bg_eef6fe">
+    <div class="container">
+        <h3 class="color_333 margin_bottom_30">Validasi Customer</h3>
+        <ol class="terms_list">
+            <li> Customer wajib mengisi data diri seperti nama, alamat, no telp dan email dengan benar dan valid.</li>
+            <li> Melampirkan KTP / ID Card / Passport untuk verifikasi data.</li>
+            <li> Jika terdapat indikasi profile tidak benar, kami wajib meminta bukti tambahan beserta memberikan sangsi suspend atau terminated layanan.</li>
+        </ol>
+        <hr class="margin_bottom_40 margin_top_40">
+        <h3 class="color_333 margin_bottom_30">Syarat yang harus di patuhi</h3>
+        <ol class="terms_list">
+            <li> Dilarang menggunakan Cloud VPS Server untuk keperluan tunneling sekala besar yang mengakibatkan pemakaian bandwidth yang tidak wajar.</li>
+            <li> Dilarang menyimpan data yang bersifat bajakan, pornografi, judi online, obat keras dan hal ilegal lainnya.</li>
+            <li> Pelanggan diharapkan dapat menjaga virtual server masing-masing dari virus/maleware/trojan/dll.</li>
+            <li> Jika terdapat serangan DDOS maka provider wajib melakukan pengamanan trafik dengan cara melakukan blokir akses internet atau suspend sementara.</li>
+            <li> Diharapkan setiap pelanggan dapat menjaga reputasi IP Address agar terhindar dari blacklist provider lain.</li>
+            <li> Cloud VPS diperbolehkan untuk digunakan untuk berbagai hal kecuali hal-hal yang melanggar aturan UU Indonesia seperti perjudian, bajakan atau hal ilegal lainnya.</li>
+            <li> Jika ditemukan adanya pelanggaran tersebut, VpsIndonesia wajib melakukan action suspend sementara sampai ada respon atau perbaikan dari pihak customer.</li>
+        </ol>
+        <hr class="margin_bottom_40 margin_top_40">
+
+        <h3 class="color_333 margin_bottom_30">Tentang Basic Managed Server</h3>
+        <ol class="terms_list">
+            <li> Syarat membeli minimal 1 bundling license cPanel / DirectAdmin / Webuzo pada waktu order Cloud VPS.</li>
+            <li> Pelanggan dapat memilih layanan Basic Managed Server dengan biaya yang sudah ditetapkan pada waktu order layanan.</li>
+            <ol> Ruang lingkup Basic Managed Server :</ol>
+            <ol> Setup awal OS, installasi, migrasi data, server tunning, setup backup berkala.</ol>
+            <li> Batasan Basic Managed Server hanya sebatas kita memberi saran, bantu setup dan installasi awal sampai proses migrasi selesai dan aplikasi berjalan normal. Untuk selanjutnya jika kedepan dibutuhkan penyesuaian setting server, silahkan bisa di handel sendiri oleh customer atau upgrade jasa ke level Advance managed server.</li>
+            <li> Jika ada kebutuhan Advance Managed Server, maka silahkan konsultasikan terlebih dahulu untuk detail biaya yang dibebankan.</li>
+        </ol>
+
+        <h3 class="color_333 margin_bottom_30">Tentang Advance Managed Server</h3>
+        <ol class="terms_list">
+            <li> Kamu akan mendapatkan Basic Managed Server + beberapa point tambahan dibawah ini.</li>
+            <li> Nilai Plus dari Advance Managed adalah kita bantu remote ke dalam server sewaktu-waktu jika dibutuhkan untuk penyesuaian konfigurasi agar mendapatkan hasil yang optimal, serta memberikan konsultasi dan saran untuk keperluan pengembangan kedepan.</li>
+            <li> Tim kami akan mengusahakan dan memberikan yang terbaik sesuai dengan kapasitas dan skill yang dimiliki.</li>
+            <li> Umumnya harga Advance Managed Server mulai dari Rp. 100.000,- / bulan teregantung dari jenis paket Cloud VPS yang diambil, tingkat kesulitan dan berbagai faktor lainnya.</li>
+            <li> Isi dari source code aplikasi menjadi tanggung jawab customer, tim kami tidak bisa membantu untuk pembenahan di sisi programming aplikasi.</li>
+        </ol>
+        <hr class="margin_bottom_40 margin_top_40">
+
+        <h3 class="color_333 margin_bottom_30">Tentang Backup Data</h3>
+        <ol class="terms_list">
+            <li> Sangat DISARANKAN semua pelanggan memiliki atau melakukan backup berkala untuk menghindari hal-hal yang tidak diinginkan.</li>
+            <li> VpsIndonesia memiliki fitur backup dan snapshot, dimana fitur tersebut adalah addon yang berbayar dengan rincian per slot yaitu 10rb / snapshot dan 25rb / backup file.</li>
+            <li> Pengertian dan tutorial melakukan backup dan snapshot bisa dilihat di sini.</li>
+            <li> Setiap customer diharapkan peduli dengan data yang di simpan (jika memang itu data penting) dan tidak meremehkan kebutuhan akan backup berkala.</li>
+            <li> VpsIndonesia tidak bertanggung jawab atas kehilangan data Backup yang terjadi, jika data tersebut sangat krusial, disarankan customer memiliki secondary backup dan diletakan di pihak external.</li>
+        </ol>
+
+        <hr class="margin_bottom_40 margin_top_40">
+
+        <h3 class="color_333 margin_bottom_30">Tentang SLA 99.5%</h3>
+        <ol class="terms_list">
+            <li> SLA (Service Level Agreement) adalah kondisi dimana VpsIndonesia menjamin layanan tetap running normal sebagaimana mestinya. SLA yang kita berikan diangka 99.5% yang artinya akumulasi dalam 1 bulan downtime selama : 3 Jam 37 Menit 21 Detik.</li>
+            <li> Kompensasi yang diberikan jika terdapat downtime lebih dari jumlah waktu yang telah ditentukan diatas. (SLA kurang dari 99.5% dalam sebulan)</li>
+            <li> Rumus SLA 99,5% dapat dilihat seperti ini :</li>
+            <p><img src="assets/images/sla995-VpsIndonesia.png"  /></p>
+            <li> Berikut contoh kasus dalam perhitungan SLA jika dibawah standart yang telah ditentukan :</li>
+            <p>Customer membeli layanan AMD RYZEN 9 - 6 dengan harga Rp. 620.000,- / bulan dan terdapat downtime selama 10 jam pada kurun waktu 1 bulan.</p>
+            <p>((10 jam Downtime - (1% x 744)) / 744 ) x 620000 = 2133</p>
+            <p>Dari contoh diatas, nominal refund yang bisa kita berikan yaitu sebesar Rp. 2.133,- bisa dalam bentuk dikreditkan di account customer atau gratis perpanjangan layanan selama 1 hari.</p>
+        </ol>
+
+        <hr class="margin_bottom_40 margin_top_40">
+
+        <h3 class="color_333 margin_bottom_30">Tentang Promo diskon</h3>
+        <ol class="terms_list">
+            <li> Kode Kupon atau diskon yang diberikan khusus untuk pelanggan baru yang belum pernah menjadi pelanggan VpsIndonesia.</li>
+            <li> Jika terdapat indikasi kecurangan seperti memanfaatkan diskon dengan membuat akun lebih dari satu (padahal orang yang sama), maka VpsIndonesia berhak melakukan suspend atau terminated layanan tanpa adanya pengembalian dana.</li>
+            <li> Diharapkan customer dapat secara bijak menggunakan dan memanfaatkan promo-promo yang tersedia.</li>
+        </ol>
+
+        <hr class="margin_bottom_40 margin_top_40">
+        <h3 class="color_333 margin_bottom_30">Cara melakukan order</h3>
+        <ol class="terms_list">
+            <li> Order pada halaman website  <a href="https://www.vpsindonesia.web.id/cloud-vps-indonesia" target="_BLANK"><b>VpsIndonesia</b></a>, pilih paket sesuaikan dengan kebutuhanmu dan isi form pendaftaran.</li>
+            <li> Invoice akan terbit sesuai nominal yang tertera, ikuti instruksi pembayaran serta cek email inbox / spam folder kamu</li>
+            <li> Verfikasi data pelanggan diperlukan jika dibutuhkan</li>
+            <li> Layanan akan segera kami aktifkan setelah semua proses verifikasi pembayaran selesai.</li>
+            <li> Hubungi tim support kami jika terdapat kendala.</li>
+        </ol>
+        <hr class="margin_bottom_40 margin_top_40">
+        <h3 class="color_333 margin_bottom_30">Pembayaran</h3>
+        <ol class="terms_list">
+            <li> VpsIndonesia menerima pembayaran dalam bentuk rupiah seperti transfer bank BCA, Mandiri, ATM Bersama, Virtual Account CIMB, Permata, BRI, BNI, MayBank, E-wallet OVO, DANA, Alfamart, kantor Pos, QRIS, shopeePAY dan lainnya.</li>
+            <li> Khusus untuk pembayaran menggunakan PayPal bisa dilakukan sesuai request dan verifikasi dari kami.</li>
+        </ol>
+    </div>
+    <!-- col -->
+</div>
+<!--End Here-->
+<div id="default_footer"></div>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+
+<script>
+    $(function(){
+        $("#default_header").load("include/default_header.html");
+        $("#default_footer").load("include/default_footer.html");
+    });
+    $(window).on('scroll', function (event) {
+        var scrollValue = $(window).scrollTop();
+        if (scrollValue > 80) {
+            $('.navbar').addClass('affix');
+        } else{
+            $('.navbar').removeClass('affix');
+        }
+    });
+</script>
+
+
+
+
+</body>
+</html>
