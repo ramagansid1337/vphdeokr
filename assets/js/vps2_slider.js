@@ -1,5 +1,5 @@
 
-var cpu_arr = new Array('2 Core','4 Core','8 Core','12 Core','32 Core','64 Core');
+var cpu_arr = new Array('2 Core','4 Core','8 Core','12 Core','16 Core','32 Core');
 var ram_arr = new Array('4 GB','8 GB','16 GB','24 GB','32 GB','64 GB');
 var hdd_arr  = new Array('40 GB','50 GB','80 GB','100 GB','160 GB','320 GB');
 var bandwidth_arr = new Array('Unlimited','Unlimited','Unlimited','Unlimited','Unlimited','Unlimited');
